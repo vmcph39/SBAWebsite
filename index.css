@@ -1,0 +1,42 @@
+
+}
+
+#report-problems-modal {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#report-problems-modal p, #report-problems-modal img {
+    margin: 8px;
+}
+h1 {
+    text-align: center;
+    margin: 16px;
+    font-family: "Californian FB";
+    font-weight: 1000px;
+    font-variant: all-petite-caps;
+
+}
+h3 {
+    text-align: center;
+    margin: 16px;
+    font-family: "Dubai";
+    font-weight: 1000px;
+}
+.carousel {
+    margin: 16px;
+
+
+}
+
+.carousel img {
+    width: 100%;
+}
+
+.carousel-indicators .active {
+
+}
+
+
+
